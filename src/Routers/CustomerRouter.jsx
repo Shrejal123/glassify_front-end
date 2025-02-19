@@ -1,7 +1,7 @@
 import React from 'react'
 import {Route, Routes} from 'react-router-dom'
 import Cart from '../customer/components/Cart/Cart.jsx'
-import HomePage from '../customer/pages/Homepage/Homepage.jsx'
+import HomePage from '../customer/pages/HomePage/Homepage.jsx'
 import Navigation from '../customer/components/Navigation.jsx'
 import Footer from '../customer/components/Footer/Footer.jsx'
 import Product from '../customer/components/Product/Product.jsx'
