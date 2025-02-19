@@ -1,4 +1,4 @@
-//import React from 'react'
+import React from 'react'
 import MainCarosel from '../../components/HomeCarosel/MainCarosel'
 import HomeSectionCarosel from '../../components/HomeSectionCarosel/HomeSectionCarosel'
 import { mockData } from "../../../assets/Data";
@@ -47,7 +47,7 @@ const Homepage = () => {
  */}
 
 </div>
-    // </div>
+  
   )
 }
 
