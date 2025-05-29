@@ -1,47 +1,4 @@
 
-// import React from 'react'
-
-// export const About = () => {
-//   return (
-//     <div className="flex justify-center items-center">
-//     <div className="w-full max-w-5xl p-6 flex flex-col items-center text-center">
-//       <p className="text-3xl font-bold text-gray-800 py-4">About</p>
-//       <p className="text-lg text-gray-700">
-//         Welcome to <span className="font-bold">Glassify</span>, your one-stop-shop for all your disposable item needs!
-//         Whether you're planning a grand wedding, a birthday bash, or a festive celebration, we've got you covered.
-//         Browse our extensive collection of disposable items and experience the convenience of online shopping.
-//       </p>
-//     </div>
-//     </div>
-//   )
-// }
-// import React from "react";
-
-// export const About = () => {
-//   return (
-//     <div className="flex justify-center items-center min-h-screen bg-gradient-to-b from-purple-50 to-purple-100">
-//       <div className="w-full max-w-4xl p-8 bg-white shadow-lg rounded-2xl text-center transform transition duration-300 hover:scale-105">
-//         <h2 className="text-4xl font-extrabold text-purple-700 mb-4">
-//           About <span className="text-black">Glassify</span>
-//         </h2>
-//         <p className="text-lg text-gray-700 leading-relaxed">
-//           Welcome to <span className="font-semibold text-purple-600">Glassify</span>, your one-stop-shop for all your 
-//           **disposable item needs**! Whether you're planning a **wedding, birthday bash,** or a **festive celebration**, 
-//           we’ve got you covered.  
-//         </p>
-//         <p className="text-lg text-gray-700 mt-4">
-//           Explore our extensive collection of high-quality disposable items and experience the **convenience of online shopping** with fast delivery and top-notch service.
-//         </p>
-//         <div className="mt-6">
-//           <button className="px-6 py-3 bg-purple-600 text-white font-semibold rounded-lg shadow-md hover:bg-purple-700 transition">
-//             Shop Now
-//           </button>
-//         </div>
-//       </div>
-//     </div>
-//   );
-// };
-
 import React from "react";
 
 export const About = () => {
